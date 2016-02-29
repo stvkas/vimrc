@@ -137,6 +137,9 @@ set foldcolumn=1
 " Show lines numbers in gutter
 set number
 
+" Enable mouse use in all modes
+set mouse=a
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Colors and Fonts
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
